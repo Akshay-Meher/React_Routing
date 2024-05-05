@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "f781",
+      "username": "AkshayMeher",
+      "email": "meherakshay59@gmail.com",
+      "password": "Akshay@2323",
+      "confirmPassword": "Akshay@2323"
+    },
+    {
+      "id": "f781",
+      "username": "AkshayMeher",
+      "email": "meher@gmail.com",
+      "password": "Akshay@2323",
+      "confirmPassword": "Akshay@2323"
+    },
+    {
+      "id": "5fdf",
+      "username": "amey",
+      "email": "amey@gmail.com",
+      "password": "Amey@2323",
+      "confirmPassword": "Amey@2323"
+    }
+  ]
+}
